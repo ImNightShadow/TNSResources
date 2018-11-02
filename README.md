@@ -1,2 +1,2 @@
 # ImNightShadow's Project's Resources
-/> User's media resources.
+\> User's media resources.
