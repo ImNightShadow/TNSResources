@@ -1,2 +1,2 @@
 # ImNightShadow's Project's Resources
-\> User's media resources.
+\> Repository for storage of user's project's resources.
