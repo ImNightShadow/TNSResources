@@ -1,2 +1,2 @@
-# TNSResources
-User's media resources.
+# ImNightShadow's Project's Resources
+/> User's media resources.
